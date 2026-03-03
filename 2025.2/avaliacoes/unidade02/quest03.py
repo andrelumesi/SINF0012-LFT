@@ -6,9 +6,6 @@ import quest04 as sa
 tokens = (
    'NUM',
    'CIRCUNFLEXO',
-   'ASTERISCO',
-   'BARRA',
-   'DUPLOASTERISCO',
    'ABREPAREN',
    'FECHAPAREN',
    'ID',
@@ -19,9 +16,6 @@ tokens = (
 
 # Regular expression rules for simple tokens
 t_CIRCUNFLEXO    = r'\^'
-t_ASTERISCO   = r'\*'
-t_BARRA   = r'\/'
-t_DUPLOASTERISCO  = r'\*\*'
 t_ABREPAREN = r'\('
 t_FECHAPAREN  = r'\)'
 t_ID = '[A-Z]+'
