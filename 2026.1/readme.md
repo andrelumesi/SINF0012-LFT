@@ -1,4 +1,4 @@
-## Turma de LFT - 2026.1
+##  Turma de LFT - 2026.1
 Projetos
 
 | N. | Nome Completo                                                                                                                                                                 | Linguagem Escolhida | Link para o Github do Grupo                                                                                                                                                      |
