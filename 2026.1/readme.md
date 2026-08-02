@@ -13,5 +13,5 @@
 ---
 
 ## 📌 Observações
-- Cada grupo desenvolveu um compilador utilizando a linguagem indicada.
+- Cada grupo desenvolveu um compilador para o subconjunto da linguagem indicada.
 - Clique em **Acessar** para visualizar o repositório no GitHub.
